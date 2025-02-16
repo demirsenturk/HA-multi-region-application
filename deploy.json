@@ -11,11 +11,11 @@
         "properties": {
           "mode": "Incremental",
           "templateLink": {
-            "uri": "https://raw.githubusercontent.com/demirsenturk/HA-multi-region-application/refs/heads/main/template.json",
+            "uri": "https%3A%2F%2Fraw.githubusercontent.com%2Fdemirsenturk%2FHA-multi-region-application%2Frefs%2Fheads%2Fmain%2Ftemplate.json",
             "contentVersion": "1.0.0.0"
           },
           "parametersLink": {
-            "uri": "https://raw.githubusercontent.com/demirsenturk/HA-multi-region-application/refs/heads/main/main.parameters.json",
+            "uri": "https%3A%2F%2Fraw.githubusercontent.com%2Fdemirsenturk%2FHA-multi-region-application%2Frefs%2Fheads%2Fmain%2Fmain.parameters.json",
             "contentVersion": "1.0.0.0"
           }
         }
